@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OttoSample</string>
+    <string name="act_to_act">Activity to Activity</string>
+    <string name="act_to_frag">Activity to Fragment</string>
+    <string name="frag_to_act">Fragment to Activity</string>
+
+</resources>
